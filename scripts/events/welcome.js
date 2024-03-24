@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "🔴𝐁𝐄𝐍𝐈𝐌𝐀𝐑🟣\n❀❀❀❀❀❀❀❀❀❀❀❀❀\n 𝐏𝐑𝐄𝐅𝐈𝐗 |%1| \n◎◎◎◎◎◎◎◎◎◎◎◎◎\n 🌱𝑮𝑬𝑨𝑹 🌱",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: `|𝑩𝑬𝑵𝑰𝑴𝑨𝑹𝑼| \n------------------\n 𝐏𝐑𝐄𝐅𝐈𝐗 (.) {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
 		}
 	},
 
