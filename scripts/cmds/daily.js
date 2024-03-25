@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "daily",
 		version: "1.2",
-		author: "NTKhang","edite by pharouk",
+		author: "NTKhang",
 		countDown: 5,
 		role: 0,
 		description: {
