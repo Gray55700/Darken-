@@ -46,8 +46,8 @@ module.exports = {
 			friday: "Friday",
 			saturday: "Saturday",
 			sunday: "Sunday",
-			alreadyReceived: "You have already received the gift",
-			received: "You have received %1 coin and %2 exp"
+			alreadyReceived: "𝙔𝙊𝙐 𝘼𝙇𝙍𝙀𝘼𝙏𝙔 𝙍𝙀𝙎𝙀𝙑𝙀 𝙔𝙊𝙐𝙍 𝙈𝙊𝙉𝙀𝙔💲 \n---------------\n 🏷𝙏𝙔𝙋𝙀 𝘽𝘼𝙇 𝙏𝙊 𝙎𝙀𝙀 🏷",
+			received: " 𝙔𝙊𝙐 𝙃𝘼𝙑𝙀 𝙍𝙀𝘾𝙀𝙄𝙑𝙀 💵 {%1}\n______________\n 𝘿𝙊𝙇𝙇𝘼 💲 American 𝘼𝙉𝘿  <%2> 𝙀𝙓𝙋 \n____________\n 💲𝙈𝙊𝙉𝙀𝙔 𝙂𝘼𝙈𝙀 💲 "
 		}
 	},
 
