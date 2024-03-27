@@ -3,7 +3,7 @@ const axios = require('axios');
 const Prefixes = [
   '/ai',
   'gear',
-  'daemon',
+  'préscilia ',
   '+ai',
   'shinmon',
   'ai',
@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🇲🇦𝙎𝙃𝙄𝙉𝙈𝙊𝙉 𝘼𝙉𝘿 𝙂𝙀𝘼𝙍 🇨🇮 \n~~~~~~~~~~~~~~~~~~~~~~~~\n 𝘾𝘼𝙉 𝙔𝙊𝙐 𝘼𝙎𝙆 𝙔𝙊𝙐𝙍 𝙌𝙐𝙀𝙎𝙏𝙄𝙊𝙉............?  ");
+        await message.reply("🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 \n____________________\n 𝘾𝘼𝙉 𝙔𝙊𝙐 𝘼𝙎𝙆 𝙔𝙊𝙐𝙍 𝙌𝙐𝙀𝙎𝙏𝙄𝙊𝙉............?  ");
         return;
       }
 
@@ -41,7 +41,7 @@ module.exports = {
 
  
     await message.reply({ body: `🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
---------------------
+_______________________
 ${answer}
 𝘿𝙍𝘼𝘾𝙐𝙇𝘼 💢`,
 });
