@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "🔴𝐁𝐄𝐍𝐈𝐌𝐀𝐑🟣\n❀❀❀❀❀❀❀❀❀❀❀❀❀\n 𝐏𝐑𝐄𝐅𝐈𝐗 |%1| \n◎◎◎◎◎◎◎◎◎◎◎◎◎\n 🌱𝑮𝑬𝑨𝑹 🌱",
+			welcomeMessage: "🔖𝙎𝘼𝙆𝙐𝙍𝘼🔖\n_____________________\n 𝐏𝐑𝐄𝐅𝐈𝐗 |%1| \n____________________\n 🔖𝙎𝙊𝙋🔖 ",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `|𝑩𝑬𝑵𝑰𝑴𝑨𝑹𝑼| \n------------------\n 𝐏𝐑𝐄𝐅𝐈𝐗 (.) {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: `|𝙨𝙤𝙥📑| \n------------------\n 𝐏𝐑𝐄𝐅𝐈𝐗 (.) {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} \n_________________________\n 𝙊𝙒𝙉𝙀𝙍: 🔖𝙉𝙐𝙇 🔖`
 		}
 	},
 
