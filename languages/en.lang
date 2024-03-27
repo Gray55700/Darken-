@@ -93,15 +93,15 @@ handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
 handlerEvents.onlyAdminBot=❌ | Currently only bot's admin can use bot
-handlerEvents.commandNotFound=Command "%1" 𝘾𝙈𝘿 𝘿𝙊𝙀𝙎 𝙉𝙊𝙏 𝙀𝙓𝙄𝙎𝙏 𝙏𝙔𝙋𝙀 %2𝙝𝙚𝙡𝙥\n◎◎◎◎◎◎◎◎◎◎◎◎◎◎\n 𝙏𝙊 𝙎𝙀𝙀 𝘽𝙊𝙏 𝘾𝙊𝙈𝙈𝘼𝙉𝘿'𝙎 ❗
-handlerEvents.commandNotFound2=🎧 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍🎧\n◓◓◓◓◓◓◓◓◓◓◓◓◓◓◓◓◓◓◓\n FB link =https://www.facebook.com/profile.php?id=61552690239959&mibextid=JRoKGi\n◍◍◍◍◍◍◍◍◍◍◍◍◍◍◍◍◍\n 🟢𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗚𝗘𝗔𝗥 𝗠𝗔𝗗𝗔𝗥𝗔 🟡𝓐𝓝𝓓 ⚪𝑩𝑬𝑵𝑰𝑴𝑨𝑹𝑼 𝑺𝑯𝑰𝑵𝑴𝑶𝑵🟠\n✯✯✯✯✯✯✯✯✯✯\n 𝘽𝙊𝙏 𝙋𝙍𝙀𝙁𝙄𝙓 ☛ |.| 𝘿𝙊𝙉'𝙏 𝘼𝘿𝘿 𝙏𝙃𝙀 𝘽𝙊𝙏 𝙄𝙉 𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋𝙎 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 🔴🧛
-handlerEvents.commandSyntaxError= 𝐓𝐀𝐏𝐄𝐙 𝐇𝐄𝐋𝐏 𝐏𝐎𝐔𝐑 𝐄𝐍 \n===============\n 𝐒𝐀𝐕𝐎𝐈𝐑 𝐏𝐋𝐔𝐒  [😺] 
+handlerEvents.commandNotFound=Command [%1] 𝘾𝙈𝘿 𝘿𝙊𝙀𝙎 𝙉𝙊𝙏 𝙀𝙓𝙄𝙎𝙏 𝙏𝙔𝙋𝙀 %2𝙝𝙚𝙡𝙥\n_______________________\n 𝙏𝙊 𝙎𝙀𝙀 𝘽𝙊𝙏 𝘾𝙊𝙈𝙈𝘼𝙉𝘿'𝙎 ❗
+handlerEvents.commandNotFound2=🔖 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍🔖\n____________________\n 𝙁𝘽:https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi \n______________________\n🎀 𝙎𝘼𝙆𝙐𝙍𝘼 🎀 \n______________________\n 𝘽𝙊𝙏 𝙋𝙍𝙀𝙁𝙄𝙓 ☛ |.|
+handlerEvents.commandSyntaxError= 𝐓𝐀𝐏𝐄𝐙 [🏷𝐇𝐄𝐋𝐏] 𝐏𝐎𝐔𝐑 𝐄𝐍 \n===============\n 𝐒𝐀𝐕𝐎𝐈𝐑 𝐏𝐋𝐔𝐒  [😺] 
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1"
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
 handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1"
 handlerEvents.onlyAdminBot2=❌ | Only bot's admin can use the command "%1"
-handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
-handlerEvents.onlyAdminBot2ToUseOnReaction=😹😹|𝐎𝐍𝐋𝐘 𝐌𝐀𝐃𝐀𝐑𝐀 𝐀𝐍𝐃 𝐁𝐄𝐍𝐈𝐌𝐀𝐑𝐔 \n.................\n can use this cmd |👽| fuck 𝐲𝐨𝐮🙈 "%1"
+handlerEvents.onlyAdminBot2ToUseOnReply=📑 | 𝙊𝙉𝙇𝙔 𝙈𝙔 𝘽𝙊𝙎𝙎 \n\n________________________ can use  [%1]
+handlerEvents.onlyAdminBot2ToUseOnReaction=😹😹|𝙊𝙉𝙇𝙔 𝙈𝙔 [🔖𝘽𝙊𝙎𝙎🔖]  \n______________________\n can use this cmd |👽| fuck 𝐲𝐨𝐮🙈 "%1"
 handlerEvents.waitingForCommand=⏱ You are in the waiting time to use this command, please come back after %1s
 handlerEvents.errorOccurred=❌ [ %1 ]\nAn error occurred at command "%2"\n\n%3
 handlerEvents.errorOccurred2=❌ [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
