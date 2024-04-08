@@ -37,12 +37,12 @@ module.exports = {
 			missingMessage: "𝙔𝙊𝙐𝙍 𝙈𝙀𝙎𝙎𝘼𝙂𝙀 ....? 🧛",
 			sendByGroup: "",
 			sendByUser: "",
-			content: "\n_______________________\n\𝙣🦇⟨  %1  ⟩🦇\n\n_____________________ 𓅓𝗗𝗥𝗔𝗖𝗨𝗟𝗔𓅓",
+			content: "\n_______________________\n\n%1\n\n_____________________ 𓅓𝗗𝗥𝗔𝗖𝗨𝗟𝗔𓅓",
 			success: "Sent your message to %1 admin successfully!\n%2",
 			failed: "An error occurred while sending your message to %1 admin\n%2\nCheck console for more details",
-			reply: "_________________________\n\𝙣🦇⟨  %2  ⟩🦇\n\n______________________ 𓅓𝗗𝗥𝗔𝗖𝗨𝗟𝗔𓅓",
+			reply: "_________________________\n\n%2\n\n______________________ 𓅓𝗗𝗥𝗔𝗖𝗨𝗟𝗔𓅓",
 			replySuccess: "Sent your reply to admin successfully!",
-			feedback: "─────────────────\n\𝙣🦇⟨  %4  ⟩🦇\n\n───────────────── 𓅓𝘿𝙍𝘼𝘾𝙐𝙇𝘼𓅓",
+			feedback: "─────────────────\n\n %4\n\n───────────────── 𓅓𝘿𝙍𝘼𝘾𝙐𝙇𝘼𓅓",
 			replyUserSuccess: "Sent your reply to user successfully!",
 			noAdmin: "Bot has no admin at the moment"
 		}
@@ -57,8 +57,8 @@ module.exports = {
 			return message.reply(getLang("noAdmin"));
 		const senderName = await usersData.getName(senderID);
 		const msg = "==𓅓 𝗖𝗔𝗟𝗟 𝗗𝗥𝗔𝗖𝗨𝗟𝗔 𓅓=="
-			+ `\n- User Name: ${senderName}`
-			+ `\n- User ID: ${senderID}`
+			+ `\n- User Name: 🧸${senderName}🧸`
+			+ `\n- User ID: 👑${senderID}👑`
 			+ (isGroup ? getLang("sendByGroup", (await threadsData.get(threadID)).threadName, threadID) : getLang("sendByUser"));
 
 		const formMessage = {
