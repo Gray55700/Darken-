@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "";
 
-      msg += `_______________⤴\n   🔖 𝙎𝘼𝙆𝙐𝙍𝘼🔖 \n_____________⤴`; // replace with your name 
+      msg += `_______________⤴\n   🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 \n_____________⤴`; // replace with your name 
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
@@ -51,7 +51,7 @@ module.exports = {
 
           const names = categories[category].commands.sort();
           for (let i = 0; i < names.length; i += 3) {
-            const cmds = names.slice(i, i + 3).map((item) => `🔖${item}`);
+            const cmds = names.slice(i, i + 3).map((item) => `🦇${item}`);
             msg += `\n│ ${cmds.join(" ".repeat(Math.max(1, 10 - cmds.join("").length)))}`;
           }
 
@@ -95,21 +95,21 @@ module.exports = {
         const guideBody = configCommand.guide?.en || "No guide available.";
         const usage = guideBody.replace(/{p}/g, prefix).replace(/{n}/g, configCommand.name);
 
-        const response = `___________⤴ 𝙉𝘼𝙈𝙀 __________⤴
-  ➡🔖 ${configCommand.name}
-  ➡🔖 𝙄𝙉𝙁𝙊
-  ➡🔖 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣: ${longDescription}
-  ➡🔖 𝙊𝙩𝙝𝙚𝙧 𝙣𝙖𝙢𝙚𝙨: ${configCommand.aliases ? configCommand.aliases.join(", ") : "Do not have"}
-  ➡🔖 𝙊𝙩𝙝𝙚𝙧 𝙣𝙖𝙢𝙚𝙨 𝙞𝙣 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥: 𝘿𝙤 𝙣𝙤𝙩 𝙝𝙖𝙫𝙚
-  ➡🔖 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: ${configCommand.version || "1.0"}
-  ➡🔖 𝙍𝙤𝙡𝙚: ${roleText}
-  ➡🔖 𝙏𝙞𝙢𝙚 𝙥𝙚𝙧 𝙘𝙤𝙢𝙢𝙖𝙣𝙙: ${configCommand.countDown || 1}s
-  ➡🔖 𝘼𝙪𝙩𝙝𝙤𝙧: ${author}
-  ➡🔖 𝙐𝙨𝙖𝙜𝙚
-  ➡🔖 ${usage}
-  ➡🔖 𝙉𝙤𝙩𝙚𝙨
-  ➡🔖 𝙏𝙝𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙣𝙨𝙞𝙙𝙚 <𝙓𝙓𝙓𝙓𝙓> 𝙘𝙖𝙣 𝙗𝙚 𝙘𝙝𝙖𝙣𝙜𝙚𝙙
-  ➡🔖 𝙏𝙝𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙣𝙨𝙞𝙙𝙚 [𝙖|𝙗|𝙘] 𝙞𝙨 𝙖 𝙤𝙧 𝙗 𝙤𝙧 𝙘 \n_____________________\n 🔖 𝙚𝙙𝙞𝙩𝙚 𝙗𝙮 : 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
+        const response = `___________⤴ 🦇𝘿𝙍𝘼𝘾𝙐𝙇𝘼🦇 __________⤴
+  ➡🦇 ${configCommand.name}
+  ➡🦇 𝙄𝙉𝙁𝙊
+  ➡🦇 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣: ${longDescription}
+  ➡🦇 𝙊𝙩𝙝𝙚𝙧 𝙣𝙖𝙢𝙚𝙨: ${configCommand.aliases ? configCommand.aliases.join(", ") : "Do not have"}
+  ➡🦇 𝙊𝙩𝙝𝙚𝙧 𝙣𝙖𝙢𝙚𝙨 𝙞𝙣 𝙮𝙤𝙪𝙧 𝙜𝙧𝙤𝙪𝙥: 𝘿𝙤 𝙣𝙤𝙩 𝙝𝙖𝙫𝙚
+  ➡🦇 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: ${configCommand.version || "1.0"}
+  ➡🦇 𝙍𝙤𝙡𝙚: ${roleText}
+  ➡🦇 𝙏𝙞𝙢𝙚 𝙥𝙚𝙧 𝙘𝙤𝙢𝙢𝙖𝙣𝙙: ${configCommand.countDown || 1}s
+  ➡🦇 𝘼𝙪𝙩𝙝𝙤𝙧: ${author}
+  ➡🦇 𝙐𝙨𝙖𝙜𝙚
+  ➡🦇 ${usage}
+  ➡🦇 𝙉𝙤𝙩𝙚𝙨
+  ➡🦇 𝙏𝙝𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙣𝙨𝙞𝙙𝙚 <𝙓𝙓𝙓𝙓𝙓> 𝙘𝙖𝙣 𝙗𝙚 𝙘𝙝𝙖𝙣𝙜𝙚𝙙
+  ➡🦇 𝙏𝙝𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙣𝙨𝙞𝙙𝙚 [𝙖|𝙗|𝙘] 𝙞𝙨 𝙖 𝙤𝙧 𝙗 𝙤𝙧 𝙘 \n_____________________\n 🔖 𝙚𝙙𝙞𝙩𝙚 𝙗𝙮 : 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
   `;
 
         await message.reply(response);
