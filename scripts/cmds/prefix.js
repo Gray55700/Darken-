@@ -5,7 +5,7 @@ module.exports = {
 	config: {
 		name: "prefix",
 		version: "1.4",
-		author: "NTKhang",
+		author: "Darkness",
 		countDown: 5,
 		role: 0,
 		description: "Thay đổi dấu lệnh của bot trong box chat của bạn hoặc cả hệ thống bot (chỉ admin bot)",
@@ -45,7 +45,7 @@ module.exports = {
 			confirmThisThread: "Please react to this message to confirm change prefix in your box chat",
 			successGlobal: "Changed prefix of system bot to: %1",
 			successThisThread: "Changed prefix in your box chat to: %1",
-			myPrefix: "🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛\n\n 𝐏𝐑𝐄𝐅𝐈𝐗 ====> |%1|\n_______________________\n 𝙊𝙒𝙉𝙀𝙍 : 𝘾𝙄 🇨🇮"
+			myPrefix: "ↈ༈ 𝘿𝘼𝙍𝙆𝙉𝙀𝙎𝙎 ༈ↈ\n\n 𝐏𝐑𝐄𝐅𝐈𝐗 ====> |%1|\n_______________________\n 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐈𝐑𝐄 : 𝘿𝙖𝙧𝙠𝙣𝙚𝙨𝙨 𝙜𝙤𝙨𝙩"
 		}
 	},
 
