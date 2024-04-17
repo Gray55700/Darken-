@@ -92,14 +92,14 @@ handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the data
 handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
-handlerEvents.onlyAdminBot=🧛| 𝙊𝙉𝙇𝙔 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛\n\n 𝐜𝐚𝐧 𝐮𝐬𝐞 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰 🙂
-handlerEvents.commandNotFound= 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐝𝐨𝐞𝐬 𝐧𝐨𝐭 𝐞𝐱𝐢𝐬𝐭 𝐬𝐨𝐫𝐫𝐲 [😺] 𝐜𝐨𝐧𝐬𝐮𝐥𝐭 𝐦𝐲 𝐛𝐨𝐬𝐬 \n\n 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
-handlerEvents.commandNotFound2=🧛 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍🧛\n____________________\n 𝙁𝘽:https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi \n______________________\n 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 \n______________________\n 𝘽𝙊𝙏 𝙋𝙍𝙀𝙁𝙄𝙓 ☛ |.|
-handlerEvents.commandSyntaxError= 𝐭𝐲𝐩𝐞 𝐡𝐞𝐥𝐩 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 \n\n 🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
+handlerEvents.onlyAdminBot=🧛| 𝙊𝙉𝙇𝙔 🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹\n\n 𝐜𝐚𝐧 𝐮𝐬𝐞 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰 🙂
+handlerEvents.commandNotFound= 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐝𝐨𝐞𝐬 𝐧𝐨𝐭 𝐞𝐱𝐢𝐬𝐭 𝐬𝐨𝐫𝐫𝐲 [😺] 𝐜𝐨𝐧𝐬𝐮𝐥𝐭 𝐦𝐲 𝐛𝐨𝐬𝐬 \n\n 🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹
+handlerEvents.commandNotFound2=🌹𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍🌹\n____________________\n 𝙁𝘽:https://www.facebook.com/profile.php?id=61553436962117 \n______________________\n 🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹 \n______________________\n 𝘽𝙊𝙏 𝙋𝙍𝙀𝙁𝙄𝙓 ☛ |∆|
+handlerEvents.commandSyntaxError= 𝐭𝐲𝐩𝐞 𝐡𝐞𝐥𝐩 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 \n\n 🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1"
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
 handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1"
-handlerEvents.onlyAdminBot2= 🧛| 𝙊𝙉𝙇𝙔 🧛𝘿𝙍𝘾𝙐𝙇𝘼🧛 \n_______________________\n  can use the command🧛{%1}
+handlerEvents.onlyAdminBot2= 🧛| 𝙊𝙉𝙇𝙔 🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹 \n_______________________\n  can use the command🧛{%1}
 handlerEvents.onlyAdminBot2ToUseOnReply=📑 | 𝙊𝙉𝙇𝙔 𝙈𝙔 𝘽𝙊𝙎𝙎 \n\n________________________ can use  [%1]
 handlerEvents.onlyAdminBot2ToUseOnReaction=😹😹|𝙊𝙉𝙇𝙔 𝙈𝙔 [🧛𝘽𝙊𝙎𝙎🧛]  \n______________________\n can use this cmd |🧛| fuck 𝐲𝐨𝐮🧛 [%1]
 handlerEvents.waitingForCommand=⏱ You are in the waiting time to use this command, please come back after %1s
