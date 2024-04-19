@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "";
 
-      msg += `_______________⤴\n   🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 \n_____________⤴`; // replace with your name 
+      msg += `_______________⤴\n   🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹 \n_____________⤴`; // replace with your name 
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
