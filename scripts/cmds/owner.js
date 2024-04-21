@@ -27,11 +27,11 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '🔖𝙎𝙄𝘿𝙄𝘽𝙀 oumar El 𝙋𝙃𝘼𝙍𝙊𝙐𝙆🏷',
+          name: '🌹𝗭𝗲𝘂𝘀🌹 oumar El 🌹𝗭𝗲𝗻𝗼🌹',
           gender: 'Boy',
           hobby: '𝙋𝙇𝘼𝙔 🏀𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇🏀 with my best friends🇺🇸 ',
-          relationship: '𝙈𝘼𝙍𝙍𝙄𝙀𝘿 with 𝙈𝙔 𝘽𝘼𝘽𝙔 𝙋𝙍É𝙎𝘾𝙄𝙇𝙄𝘼 i love this girl 🥺',
-          facebookLink: 'https://www.facebook.com/more.sidibe.1?mibextid=JRoKGi/pharouk ',
+          relationship: '𝙈𝘼𝙍𝙍𝙄𝙀𝘿 with 𝙈𝙔 𝘽𝘼𝘽𝙔 𝗕𝗼𝘁 i love this bot 🥺',
+          facebookLink: 'https://www.facebook.com/profile.php?id=61553436962117 ',
           bio: '𝙋𝙇𝘼𝙔 𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇 is 𝙈𝙔 𝘿𝙍𝙀𝘼𝙈 🔖'
         };
 
@@ -72,7 +72,7 @@ module.exports = {
 ⊰🔖__________
 ➤🔖 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞🔗: ${ownerInfo.facebookLink}
 ⊰🔖__________
-      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: ${ownerInfo.bio} 🇨🇮
+      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: ${ownerInfo.bio} 🇫🇷
         `;
 
         await api.sendMessage({
