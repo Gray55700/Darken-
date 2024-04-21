@@ -25,7 +25,7 @@ module.exports = {
 			session4: "evening",
 			leaveType1: "left",
 			leaveType2: "was kicked from",
-			defaultLeaveMessage: "🤺|🖕{userName}🖕 𝐋𝐄 𝐂𝐎𝐍𝐍𝐀𝐑𝐃(𝐄) {type} : 𝐋𝐄 𝐆𝐑𝐎𝐔𝐏𝐄 𝐐𝐔𝐄 𝐓𝐎𝐍 𝐀𝐑𝐌𝐄 𝐑𝐄𝐏𝐎𝐒𝐄 𝐄𝐍 𝐏𝐀𝐈𝐗 🛀 "
+			defaultLeaveMessage: "🤺|🖕{userName}🖕 𝑈𝑁(𝐸) 𝐶𝑂𝑁𝐴𝑅𝐷(𝐸) {type}  𝐿𝐸 𝐺𝑅𝑂𝑈𝑃𝐸 : 𝐐𝐔𝐄 𝐓𝐎𝐍 𝐀𝐑𝐌𝐄 𝐑𝐄𝐏𝐎𝐒𝐄 𝐄𝐍 𝐏𝐀𝐈𝐗 🛀 "
 		}
 	},
 
