@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛 \n____________________\n 𝘾𝘼𝙉 𝙔𝙊𝙐 𝘼𝙎𝙆 𝙔𝙊𝙐𝙍 𝙌𝙐𝙀𝙎𝙏𝙄𝙊𝙉............?  ");
+        await message.reply("🌹𝙕𝙚𝙪𝙨 𝙯𝙚𝙣𝙤🌹 \n____________________\n 𝙌𝙪𝙚 𝙫𝙚𝙪𝙭 𝙩𝙪 𝙢𝙤𝙧𝙩𝙚𝙡𝙡𝙚............?  ");
         return;
       }
 
@@ -40,7 +40,7 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `🧛𝘿𝙍𝘼𝘾𝙐𝙇𝘼🧛
+    await message.reply({ body: `🌹𝙕𝙚𝙪𝙨 𝙯𝙚𝙣𝙤🌹
 _______________________
 ${answer}
 𝘿𝙍𝘼𝘾𝙐𝙇𝘼 💢`,
