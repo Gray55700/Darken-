@@ -1,10 +1,10 @@
 #𝗚𝗢𝗔𝗧𝘽𝙊𝙏𝙑2 𝘾𝙍É𝙀𝙍 𝙋𝘼𝙍﹝🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹﹞
 # PROJECT CREATOR</h1>
-<img                                  src="https://i.ibb.co/jz98m1P/image.jpg"                                    alt="banner">   
+<img                                  src="https://www.facebook.com/profile.php?id=61553436962117"                                    alt="banner">   
 <h1 align="center"><img               src="" width="22px">
 
 # 𝙁𝘼𝘾𝘽𝙊𝙊𝙆 🎖PROFILE PHOTO</h1>
-<img                                  src="https://i.ibb.co/VSnJfWr/image.jpg">
+<img                                  src="https://www.facebook.com/profile.php?id=61553436962117">
 <h1 align="center"><img               src="https://i.ibb.co/q1vtz6Q/image.jpg" width="22px">
 
 # 🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹 {lycée moderne2 de soubré} 𝙈𝙔 𝙎𝘾𝙃𝙊𝙊𝙇                  𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉:</h1>
