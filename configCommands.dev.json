@@ -2,7 +2,7 @@
 	"commandBanned": {},
 	"envGlobal": {
 		"weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
-		"goatbotApikey": "AIzaSyBZjYk2QtAvsZjAzUJ5o4qGl8eRl6gr2SA"
+		"goatbotApikey": ""
 	},
 	"envCommands": {
 		"daily": {
