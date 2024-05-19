@@ -16,7 +16,7 @@ module.exports = {
   onStart: async function ({ message, args, api, event }) {
     const permission = ["61550695203372"];
     if (!permission.includes(event.senderID)) {
-      return api.sendMessage("𝙎𝙊𝙍𝙍𝙔 𝙊𝙉𝙇𝙔 [🌹ᴅᴀʀᴋᴇɴ ɢʀᴇʏ🌹 ]\n_____________________\n can use file {😶}", event.threadID, event.messageID);
+      return api.sendMessage("𝙎𝙊𝙍𝙍𝙔 𝙊𝙉𝙇𝙔 [ ♣️ Đ₳Ɽ₭Ɇ₦ ₲ⱤɆɎ ♣️ ]\n_____________________\n can use file {♣️}", event.threadID, event.messageID);
     }
     
     const fileName = args[0];
@@ -26,7 +26,7 @@ module.exports = {
 
     const filePath = __dirname + `/${fileName}.js`;
     if (!fs.existsSync(filePath)) {
-      return api.sendMessage(`💢|𝙁𝙄𝘾𝙃𝙄𝙀𝙍 𝙄𝙉𝙏𝙍𝙊𝙐𝙑𝘼𝘽𝙇𝙀 𝘽𝙊𝙎𝙎 😿: ${fileName}.js`, event.threadID, event.messageID);
+      return api.sendMessage(`💢|fιᴄʜɪᴇʀ ɪɴᴛʀᴏᴜᴠᴀʙʟᴇ ᴍᴏɴ ᴘʀᴏғ ♣️: ${fileName}.js`, event.threadID, event.messageID);
     }
 
     const fileContent = fs.readFileSync(filePath, 'utf8');
