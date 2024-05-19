@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "";
 
-      msg += `_______________⤴\n   🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹 \n_____________⤴`; // replace with your name 
+      msg += `_______________⤴\n   ♣️Đ₳Ɽ₭Ɇ₦ ₲ⱤɆɎ♣️ \n_____________⤴`; // replace with your name 
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
@@ -51,7 +51,7 @@ module.exports = {
 
           const names = categories[category].commands.sort();
           for (let i = 0; i < names.length; i += 3) {
-            const cmds = names.slice(i, i + 3).map((item) => `🌹${item}`);
+            const cmds = names.slice(i, i + 3).map((item) => `☆${item}`);
             msg += `\n│ ${cmds.join(" ".repeat(Math.max(1, 10 - cmds.join("").length)))}`;
           }
 
@@ -95,7 +95,7 @@ module.exports = {
         const guideBody = configCommand.guide?.en || "No guide available.";
         const usage = guideBody.replace(/{p}/g, prefix).replace(/{n}/g, configCommand.name);
 
-        const response = `___________⤴🌹𝙕𝙚𝙪𝙨 𝙯𝙚𝙣𝙤🌹__________⤴
+        const response = `___________⤴♣️ Đ₳Ɽ₭Ɇ₦ ₲ⱤɆɎ ♣️__________⤴
   ➡🌹 ${configCommand.name}
   ➡🌹 𝙄𝙉𝙁𝙊
   ➡🌹 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣: ${longDescription}
@@ -109,7 +109,7 @@ module.exports = {
   ➡🌹 ${usage}
   ➡🌹 𝙉𝙤𝙩𝙚𝙨
   ➡🌹 𝙏𝙝𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙣𝙨𝙞𝙙𝙚 <𝙓𝙓𝙓𝙓𝙓> 𝙘𝙖𝙣 𝙗𝙚 𝙘𝙝𝙖𝙣𝙜𝙚𝙙
-  ➡🌹 𝙏𝙝𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙣𝙨𝙞𝙙𝙚 [𝙖|𝙗|𝙘] 𝙞𝙨 𝙖 𝙤𝙧 𝙗 𝙤𝙧 𝙘 \n_____________________\n 🔖 𝙚𝙙𝙞𝙩𝙚 𝙗𝙮 : 🌹𝙕𝙚𝙪𝙨 𝙯𝙚𝙣𝙤🌹
+  ➡🌹 𝙏𝙝𝙚 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙣𝙨𝙞𝙙𝙚 [𝙖|𝙗|𝙘] 𝙞𝙨 𝙖 𝙤𝙧 𝙗 𝙤𝙧 𝙘 \n_____________________\n 🔖 𝙚𝙙𝙞𝙩𝙚 𝙗𝙮 : ♣️ Đ₳Ɽ₭Ɇ₦ ₲ⱤɆɎ ♣️
   `;
 
         await message.reply(response);
